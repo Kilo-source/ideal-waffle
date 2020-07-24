@@ -1,0 +1,7 @@
+C:\Users\Laki\Documents\GitHub\ideal-waffle\Fibonacci\Fibonacci Example\Fibonacci Example\bin\Debug\Fibonacci Example.exe.config
+C:\Users\Laki\Documents\GitHub\ideal-waffle\Fibonacci\Fibonacci Example\Fibonacci Example\bin\Debug\Fibonacci Example.exe
+C:\Users\Laki\Documents\GitHub\ideal-waffle\Fibonacci\Fibonacci Example\Fibonacci Example\bin\Debug\Fibonacci Example.pdb
+C:\Users\Laki\Documents\GitHub\ideal-waffle\Fibonacci\Fibonacci Example\Fibonacci Example\obj\Debug\Fibonacci Example.csprojAssemblyReference.cache
+C:\Users\Laki\Documents\GitHub\ideal-waffle\Fibonacci\Fibonacci Example\Fibonacci Example\obj\Debug\Fibonacci Example.csproj.CoreCompileInputs.cache
+C:\Users\Laki\Documents\GitHub\ideal-waffle\Fibonacci\Fibonacci Example\Fibonacci Example\obj\Debug\Fibonacci Example.exe
+C:\Users\Laki\Documents\GitHub\ideal-waffle\Fibonacci\Fibonacci Example\Fibonacci Example\obj\Debug\Fibonacci Example.pdb
